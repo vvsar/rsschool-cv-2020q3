@@ -16,14 +16,14 @@ scientific curation specialist (non-IT, contractor) since 2010
 EPAM Systems (St. Petersburg branch)
   
 ## Education  
-1988-1993  
+**1988-1993**  
 engineering in chemical technology of organic compounds of nitrogen  
 St. Petersburg State Institute of Technology  
-(interrupted by the military service)  
-1993-1996  
+*(interrupted by the military service)*  
+**1993-1996**  
 organic chemistry - post-graduate course  
 St. Petersburg State Institute of Technology  
-1999  
+**1999**  
 PhD in organic chemistry
 
 ## Languages
